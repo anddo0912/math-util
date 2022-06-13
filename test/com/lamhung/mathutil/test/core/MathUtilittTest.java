@@ -52,7 +52,7 @@ public class MathUtilittTest {
         Assert.assertEquals(2, MathUtil.getFactorial(2));//tui muốn 2! = 2
         Assert.assertEquals(6, MathUtil.getFactorial(3));//tui muốn 3! = 6
         Assert.assertEquals(24, MathUtil.getFactorial(4));//tui muốn 4! = 24
-        Assert.assertEquals(120, MathUtil.getFactorial(5));//tui muốn 5! = 120
+        Assert.assertEquals(720, MathUtil.getFactorial(5));//tui muốn 5! = 120
         Assert.assertEquals(720, MathUtil.getFactorial(6));//tui muốn 6! = 720
     }
     
