@@ -53,7 +53,6 @@ public class MathUtilDDTTest {
     
     @Test
     public void testGetFactorialGivenRightArgumentReturnsWell() {
-        System.out.println(n);
         Assert.assertEquals(expected, MathUtil.getFactorial(n));
     }
     
